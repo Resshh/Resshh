@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Reshma Thomas · Full Stack Developer · MERN" />
+<img src="./banner-v2.svg" width="100%" alt="Reshma Thomas · Full Stack Developer · MERN" />
 
 ---
 
