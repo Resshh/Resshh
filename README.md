@@ -1,11 +1,5 @@
 <img src="./banner.svg" width="100%" alt="Reshma Thomas · Full Stack Developer · MERN" />
 
-<p align="center">
-  <a href="https://github.com/Resshh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN" alt="Typing intro" />
-  </a>
-</p>
-
 ---
 
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="waving hand" />
