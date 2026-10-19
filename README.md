@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=Hi,%20I'm%20Reshma%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="./banner.svg" width="100%" alt="Reshma Thomas · Full Stack Developer · MERN" />
 
 <p align="center">
   <a href="https://github.com/Resshh">
@@ -18,7 +18,8 @@ I'm currently learning cloud deployment, CI/CD with Jenkins, and application sec
 
 **Let's connect!**
 
-<!-- TODO: add your links, e.g. [LinkedIn](https://linkedin.com/in/...) · [Email](mailto:...) -->
+<a href="https://www.linkedin.com/in/reshmathomas2312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:reshmaannthomas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ## 🛠️ Tech
 
