@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Resshh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full-stack+MERN+developer;Building+BEAUT%C3%89+%E2%80%94+a+salon+booking+platform;REST+APIs+%C2%B7+Auth+%C2%B7+Real-time+%C2%B7+AWS;Learning+CI%2FCD+and+app+security" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN" alt="Typing intro" />
   </a>
 </p>
 
@@ -39,48 +39,6 @@ Full-stack developer working with the **MERN stack** (MongoDB, Express, React, N
 
 </details>
 
-## 🚀 Featured projects
-
-<details open>
-<summary><b>💇‍♀️ BEAUTÉ – Salon Management</b> &nbsp;·&nbsp; React, Express, MongoDB, Socket.IO</summary>
-<br/>
-
-Booking app for customers, stylists and admins. Includes Razorpay payments, loyalty points, live notifications and email alerts.
-
-<a href="https://github.com/Resshh/Salon-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Resshh&repo=Salon-Management-System&theme=tokyonight&hide_border=true" alt="BEAUTÉ repo" /></a>
-
-</details>
-
-<details>
-<summary><b>💬 Feedback Application</b> &nbsp;·&nbsp; JavaScript</summary>
-<br/>
-
-<!-- TODO: one line -->
-
-<a href="https://github.com/Resshh/Feedback-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Resshh&repo=Feedback-Application&theme=tokyonight&hide_border=true" alt="Feedback Application repo" /></a>
-
-</details>
-
-<details>
-<summary><b>🔐 Student Management (secured)</b> &nbsp;·&nbsp; Node.js, Express</summary>
-<br/>
-
-<!-- TODO: one line, e.g. role-based auth, hashed passwords -->
-
-<a href="https://github.com/Resshh/Student_management_system-security-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Resshh&repo=Student_management_system-security-&theme=tokyonight&hide_border=true" alt="Student Management repo" /></a>
-
-</details>
-
-<details>
-<summary><b>🎬 Movie Listing App</b> &nbsp;·&nbsp; React</summary>
-<br/>
-
-<!-- TODO: one line -->
-
-<a href="https://github.com/Resshh/Movie-Listing-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Resshh&repo=Movie-Listing-Application&theme=tokyonight&hide_border=true" alt="Movie Listing repo" /></a>
-
-</details>
-
 ## 📊 GitHub stats
 
 <p align="center">
@@ -90,10 +48,6 @@ Booking app for customers, stylists and admins. Includes Razorpay payments, loya
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Resshh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Resshh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" />
