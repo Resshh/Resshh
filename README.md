@@ -8,7 +8,7 @@ I'm **Reshma**, a full stack developer working with the **MERN stack** (MongoDB,
 
 I build web apps end to end, from REST APIs and authentication to real-time features and deployment on AWS. Recently I built **[BEAUTÉ](https://github.com/Resshh/Salon-Management-System)**, a salon booking platform with payments, loyalty points and live notifications.
 
-I'm currently learning cloud deployment, CI/CD with Jenkins, and application security.
+I also have hands-on experience with cloud deployment on AWS, CI/CD pipelines with Jenkins, and application security.
 
 **Let's connect!**
 
