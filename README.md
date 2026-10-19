@@ -44,4 +44,4 @@ I also have hands-on experience with cloud deployment on AWS, CI/CD pipelines wi
   <img src="https://streak-stats.demolab.com?user=Resshh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" />
+<img src="./footer.svg" width="100%" alt="Thanks for stopping by!" />
